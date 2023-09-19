@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashAndOnboarding</string>
+    <string name="first_to_know">First to know</string>
+    <string name="next">Next</string>
+    <string name="all_news_in_one_place_be_the_n_first_to_know_last_news">All news in one place, be the \n first to know last news</string>
+    <string name="done">Done</string>
+</resources>
